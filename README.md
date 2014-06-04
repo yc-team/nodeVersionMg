@@ -11,4 +11,4 @@ node version manager
 1. [nvm](https://github.com/creationix/nvm)
 2. [n](https://github.com/visionmedia/n) 
 
-> 很多人在npm管理下的那个0.0.3的 [nvm](https://www.npmjs.org/package/nvm) 其实不是我上面的那个
+> 很多人在npm官网下的那个0.0.3的 [nvm](https://www.npmjs.org/package/nvm) 其实不是我上面的那个
